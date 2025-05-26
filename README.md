@@ -17,10 +17,14 @@ The dataset includes details like item type, outlet location, fat content, and s
 ##  Tools Used
         
 
- SQL : Data extraction and transformation 
- Excel : Data formatting and cleaning     
- Python : Exploratory Data Analysis (EDA)  
- Power BI : Dashboard development & storytelling 
+ SQL : Data extraction and transformation.
+ 
+ Excel : Data formatting and cleaning.
+ 
+ Python : Exploratory Data Analysis (EDA). 
+ 
+ Power BI : Dashboard development & storytelling. 
+ 
 
 ---
 
