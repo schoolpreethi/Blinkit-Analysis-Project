@@ -46,9 +46,15 @@ The dataset includes details like item type, outlet location, fat content, and s
 ## 📌 Keywords
 
 · Power BI 
-· SQL 
-· Python 
+
+· SQL
+
+· Python
+
 · Retail Analytics 
+
 · Dashboard Design 
+
 · Data Analysis 
+
 · Business Intelligence
